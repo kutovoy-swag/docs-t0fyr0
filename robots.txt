@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-zv6h6d.radarsatu88.cfd/sitemap.xml
